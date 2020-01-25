@@ -1,5 +1,4 @@
 %define		plugin	check_http_header
-%include	/usr/lib/rpm/macros.perl
 Summary:	Nagios plugin to check HTTP header for text
 Name:		nagios-plugin-%{plugin}
 Version:	0.01
